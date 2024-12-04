@@ -1,16 +1,16 @@
 {
-   "name": "KING-PHANTOM",
+   "name": "Phanthom-MD",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by KING-PHANTOM ....",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name KING-PHANTOM || node .",
-      "KING-PHANTOM ": "pm2 start . --deep-monitoring --attach --name KING-PHANTOM || node .",
-      "start": "pm2 start . --attach --name KING-PHANTOM",
-      "stop": "pm2 stop KING-PHANTOM",
-      "heroku-postbuild": "git clone https://github.com/Phantom-kin/KING_PHANTOM.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/Phantom-kin/KING_PHANTOM.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "run": "pm2 start . --deep-monitoring --attach --name Phanthom-MD || node .",
+      "KING-PHANTOM ": "pm2 start . --deep-monitoring --attach --name Phanthom-MD || node .",
+      "start": "pm2 start . --attach --name Phanthom-MD",
+      "stop": "pm2 stop Phanthom-MD",
+      "heroku-postbuild": "git clone https://github.com/Phantom-kin/Phanthom-MD.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/Phantom-kin/Phanthom-MD.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "KING-PHANTOM",
@@ -77,10 +77,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Phantom-kin/KING_PHANTOM.git"
+      "url": "git+https://github.com/Phantom-kin/Phanthom-MD.git"
    },
    "bugs": {
-      "url": "https://github.com/Phantom-kin/KING_PHANTOM/issues"
+      "url": "https://github.com/Phantom-kin/Phanthom-MD/issues"
    },
-   "homepage": "https://github.com/Phantom-kin/KING_PHANTOM#readme"
+   "homepage": "https://github.com/Phantom-kin/Phanthom-MD#readme"
 }
