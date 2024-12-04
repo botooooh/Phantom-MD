@@ -47,9 +47,9 @@
 
  **THANKS TO**
  
- **[Ibrahim-Adams](https://github.com/ibrahimaitech)*** 
+ ***[Ibrahim-Adams](https://github.com/ibrahimaitech)***
  
- **[Baraka-Bega](https://github.com/Kingbega)***
+ ***[Baraka-Bega](https://github.com/Kingbega)***
  
  # King Haki 
  # Prexzy
