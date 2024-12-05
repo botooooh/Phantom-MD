@@ -45,7 +45,6 @@
 
 ***
 
- **THANKS TO**
  
- ## ***(https://github.com/Kingbega)[Baraka-Bega]***
- 
+ - *Special Thanks To **[Baraka-Bega](https://github.com/Kingbega)***
+ - - *Thanks To **[Baraka-Bega](https://github.com/Phantom-kin)***
