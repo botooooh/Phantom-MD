@@ -26,7 +26,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## `DEPLOY NORMAL MENU HERE` 
+## `INSTALATION` 
 
 
 1. Fork the repo
@@ -61,5 +61,13 @@
     <br>
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## 🦁 `BOT OWNER` 
+<a href="https://github.com/Phantom-kin"><img src="https://github.com/Phantom-kin.png" width="250" height="250" alt="Salman Ahmad"/></a>
+
+## 🍀 `CONTRIBUTOR` 
+<a href="https://github.com/Kingbega"><img src="https://github.com/Kingbega.png" width="250" height="250" alt="Salman Ahmad"/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
