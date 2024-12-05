@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Phantom-kin/Phantom-MD  /root/Phantom
-WORKDIR /root/Phantom/
+RUN git clone https://github.com/Phantom-kin/Phantom-MD  /root/phantom
+WORKDIR /root/phantom/
 
 
 COPY package.json .
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "ibrahim.js"]
+CMD ["npm", "run" , "phantom.js"]
