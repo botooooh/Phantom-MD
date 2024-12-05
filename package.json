@@ -2,12 +2,12 @@
   "name": "Phantom-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "phantom.js",
   "scripts": {
-    "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
-    "toshtech": "pm2 start ibrahim.js --attach",
-    "toshtech": "pm2 start ibrahim.js --attach",
+    "test": "node phantom.js",
+    "s": "node phantom.js",
+    "phantom": "pm2 start phantom.js --attach",
+    "phantom": "pm2 start phantom.js --attach",
     "c": "tsc"
   },
   "keywords": [
