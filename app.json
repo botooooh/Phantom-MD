@@ -1,6 +1,6 @@
 {
   "name":"Phantom-MD",
-  "description":"Best whatsapp bot developed by Phantom",
+  "description":"Best whatsapp bot developed by Phantom and Baraka Bega",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e03206989102cb861200e.jpg",
   "repository":"https://github.com/Phantom-kin/Phantom-MD",
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(example of togo '228')",
     "required":false,
-    "value": "254111523038"
+    "value": "27748255848"
   },
     "WARN_COUNT":
   {
