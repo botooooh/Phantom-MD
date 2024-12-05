@@ -47,4 +47,3 @@
 
  
  - *Special Thanks To **[Baraka-Bega](https://github.com/Kingbega)***
- - - *Thanks To **[Baraka-Bega](https://github.com/Phantom-kin)***
